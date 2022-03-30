@@ -1,0 +1,12 @@
+                          Zomato Restaurants Network Analysis     
+
+1. How to get Data into Power BI directly from google spreadsheet.
+2. What is the total number of restaurants with Zomato.
+3. What is the total number of cities in which Zomato available.
+4.What is the total number of countries in which Zomato available.
+5. Filter out restaurants on the basis of Customer Rating.
+6. Whether restaurants have online delivery or not?
+7. Whether restaurants have table booking facilities or not?
+8. Filter out restaurants on the basis of City.
+9. Filter out restaurants on the basis of Price range (1-lower to 4-higher)
+10. Top 5 cities which have most numbers of zomato restaurants.
